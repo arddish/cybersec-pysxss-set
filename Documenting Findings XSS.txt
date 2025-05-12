@@ -1,7 +1,6 @@
 Documenting Findings: XSS
 Payload Generation and WAF
 Evasion
-Prepared by Febin Jacob
 1. Introduction
 • This document summarizes the findings from testing a Python script
 designed to generate Cross-Site Scripting (XSS) payloads capable of
